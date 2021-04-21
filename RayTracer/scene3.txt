@@ -1,0 +1,10 @@
+eye 20 20 0
+look 0 0 0
+up 0 0 1
+d 20
+bounds -0.8 -0.8 0.8 0.8
+res 256 256
+ambient 0.1 0.1 0.1
+light 0 0 20 1 .5 .5 .5
+light -10 10 10 1 .5 .5 .5
+model 0 0 0 0 0 0 0 Scene3.obj

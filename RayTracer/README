@@ -1,0 +1,17 @@
+to compile:
+Use make command
+
+Scene1:
+./raytracer Scene1.txt <outputname>
+
+Scene2:
+./raytracer Scene2.txt <outputname>
+
+Scene3:
+./raytracer Scene3.txt <outputname>
+
+Scene4:
+./raytracer Scene4.txt <outputname>
+
+Final:
+./raytracer Final.txt <outputname>
